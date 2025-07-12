@@ -164,6 +164,8 @@
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
+    
+    **Goal 1: lead a Development Team**
 
     • Specific: Secure a role as a as team lead or engineering manager. 
 
