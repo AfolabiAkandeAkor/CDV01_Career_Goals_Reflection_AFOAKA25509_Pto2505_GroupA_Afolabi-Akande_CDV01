@@ -165,7 +165,7 @@
     
     - Outline your long-term career aspirations.
 
-Goal 1: Lead a Development Team
+**🎯 Goal 1: Lead a Development Team**:
 
 
      • Specific: Secure a role as a as team lead or engineering manager. 
@@ -180,7 +180,7 @@ Goal 1: Lead a Development Team
 
 
 
-Goal 2: Launch a mentorship or learning platform/blog by 2029
+**🎯 Goal 2: Launch a mentorship or learning platform/blog by 2029**:
 
     
     • Specific: Focus on beginner-friendly frontend development
@@ -318,7 +318,7 @@ Goal 2: Launch a mentorship or learning platform/blog by 2029
     • Mentorship Programs: Mentoring club, CodeYourPath, MentorCruise.
 
     • Project-Based Ed: Hyperskill, ALX Africa, Saulet.
-    
+
     • Peer Learning: MintBean, Reddit mentorship
 
 
