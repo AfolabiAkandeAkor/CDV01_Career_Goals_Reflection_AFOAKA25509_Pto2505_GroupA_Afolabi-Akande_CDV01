@@ -1,6 +1,6 @@
-# 🎯Career Goals Reflection 
+# Career Goals Reflection 
 
-### 👤Personal Information
+### Personal Information
 
 - **Name:                   Afolabi Akande
 - **Date:                   July 12, 2025
@@ -12,11 +12,38 @@
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
+
+    • HTML, CSS
+    • Git & Github version control
+    • Responsive Web Design
+    • UI/UX Fundamentals
+
     - Identify skills you need to develop or improve.
+
+    • Lifelong Learner
+    • Collaborator
+    • Ethical Thinking
+    • Resilience & Adaptability
+    • Leadership & Mentorship
+
+
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
+
+    • Learning & Mastery
+    • Building accesible, user-friendly web interfaces
+    • Problem solving & Logical Thinking
+    • Open-source contribution
+
+
     - What values are important to you in a work environment?
+
+    • Respect
+    • Continous learning and professional development
+    • Diverstiy and Inclusion 
+    • Flexible work-life balance
+    • Purpose-driven and mission-alligned projects
 
 ### Part 2: Career Exploration Insights
 
