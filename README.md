@@ -87,11 +87,51 @@
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
+
+     • Specific: Complete all beginner modules in HTML, CSS, and JavaScript through the CodeSpace part-time program.
+
+     • Measurable: Track progress by finishing one module per month and submitting all required assignments/projects.
+
+     • Achievable: Allocate 6–8 hours per week for studying, in line with the part-time format.
+
+     • Relevant: This will establish the essential technical foundation needed to pursue a career in front-end development.
+
+     • Time-bound: Complete by the end of the 1-year CodeSpace program (approx. May–June 2026).
+
+
     - Explain the rationale behind each goal.
+
+     • Specific: Clearly defined steps make it easy to know what I am working towards and it gives me clarity
+     • Measurable: This clearly keeps me accountable, helps me see real progress, and also keeps me motivated
+     • Achievable: Goals are realistic, so this keeps me challenged but not overwhelmed
+     • Relevant: These focuses on my skills, all of which are career enhancing in software development
+     • Time-bound: This helps foster accountability and prevent procastination.
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
+
+Goal 1: Lead a Development Team
+
+     • Specific: Secure a role as a as team lead or engineering manager. 
+     • Measurable: Successfully lead 5 projects or more, complete strutured leadership training or a management course
+     • Achievable: Volunteer for lead duties, coach juniors, shadow managers. 
+     • Relevant: Suits those motivated by people leadership and project impart.
+     • Time-Bound: Achieve all within 2-3 years. 
+
+Goal 2: Launch a mentorship or learning platform/blog by 2029
+    
+    • Specific: Focus on beginner-friendly frontend development
+    • Measurable: Publish 2 blog posts/month; reach 100+ subscribers
+    • Achievable: Use platforms like Hashnode, Dev.to, or Medium
+    • Relevant: Supports community building and career branding
+    • Time-bound: With 4-6 years this will be highlighted as achieveble objectives. 
+
+
     - Describe how these align with your interests and skills.
+
+    • These roles allign with my interests because of my leadership aspirations 
+    • These roles allign with my skills because I would by then have understood design principles and wireframes. 
 
 ### Part 4: Action Plan
 
