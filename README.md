@@ -160,7 +160,15 @@ Goal 2: Launch a mentorship or learning platform/blog by 2029
     • Develop Leadership & Collaboration Capabilities: Step up on complex initiatives, and initiate team retrospective improvements.
     • Build Network, Visibility & Credibility: Attend meetups, conferences, publish technical articles, and build portfolio projects that reflect architectural thinking.
     • Continous Learning & Reflection: keep skills fresh, partner with a senior manager to review growth areas and feebacks, code regularly to stay hands-on while raising my leadership and strategic visibility.
+
     - Consider additional skills, experiences, or qualifications needed.
+
+    • Advanced Tech Skills
+    • Communication
+    • Experience & Credentials
+    • Inoovation & Learning
+    • Leadership & Mentoring
+
 
 ### Part 5: Reflection on Challenges and Opportunities
 
