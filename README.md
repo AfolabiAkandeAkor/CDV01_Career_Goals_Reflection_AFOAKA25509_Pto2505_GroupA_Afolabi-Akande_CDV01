@@ -50,11 +50,37 @@
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+
+     • Finance & Fintech
+     • Graphics Engineer 
+     • Artificial intelligence & Machine Learning
+     • Open Source Contributor
+     • Health Tech
+     • Tech Startups
+
     - Note any particular areas that piqued your interest.
+
+     • Backend Engineer (banking systems, APIs)
+     • Quant Developer
+     • Techinal Product Manager
+     • Data Scientist
+
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+
+     • Skills: They all allign with my skills because I am into problem-solving, communication and ethical awareness.
+
+     • Interests: Designing models that learn from or predict data and tackling algorithmic challenges really piques my interests
+
+     • Values: I value innovation, so these roles supports and encourages ethics and social responsibility.
+
     - Identify any gaps or areas for further exploration.
+
+     • Explore certification paths(Google UX, Coursera Full-Stack Programs)
+     • Cloud & Container Expertise
+     • Need more clarity around front-end development.
+     • Site Reliability Engineer
 
 ### Part 3: SMART Career Goals
 
