@@ -138,10 +138,28 @@ Goal 2: Launch a mentorship or learning platform/blog by 2029
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
+
+    • Define and breakdown my SMART Goals
+    • Create a Timeline with Milestones
+    • Commit to continous Learning & Prctice 
+    • Create a GitHub-hosted portfolio (use Netlify or Vercel)
+    • Connect with 3–5 peers or mentors via LinkedIn or Discord communities
+
     - Include any resources or support required.
+
+    • JavaScript Fundamentals: Scrimba 
+    • Oss Contributions & Collaboration: Freecodecamp 
+    • Online communities: Discord
+    • progress tracking: Github
+
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
+
+    • Elevate My Technical Expertise: Master async patterns, design patterns and typing.
+    • Develop Leadership & Collaboration Capabilities: Step up on complex initiatives, and initiate team retrospective improvements.
+    • Build Network, Visibility & Credibility: Attend meetups, conferences, publish technical articles, and build portfolio projects that reflect architectural thinking.
+    • Continous Learning & Reflection: keep skills fresh, partner with a senior manager to review growth areas and feebacks, code regularly to stay hands-on while raising my leadership and strategic visibility.
     - Consider additional skills, experiences, or qualifications needed.
 
 ### Part 5: Reflection on Challenges and Opportunities
